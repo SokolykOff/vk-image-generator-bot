@@ -1,0 +1,1 @@
+список библиотек: vk-api, python-dotenv, requests, deep-translator
